@@ -1,2 +1,2 @@
 # BruteForcingForDummies-windows
-Brute for password for Microsoft documents via windows
+Brute force for password for Microsoft documents via windows
